@@ -1,1 +1,1 @@
-print('Hello World')
+print('Hello Word Of Python')
