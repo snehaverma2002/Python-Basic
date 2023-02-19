@@ -1,6 +1,0 @@
-a=int(input('enter first number:'))
-b=int(input('enter the second nuber:'))
-if a>=b:
-    print('I am a genius')
-    else:
-         print('you are a fool')
